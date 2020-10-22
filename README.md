@@ -17,27 +17,26 @@
 </a>
 
 ## My Skills
-<img alt="python" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>     
-<img alt="my-sql" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>
-<img alt="scikit-learn" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-thumb.png?raw=true" width="40" height="40"
-     style="max-width:100%;">
-</img>     
- <img alt="c++" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>    
-<img alt="git" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>
-<img alt="github" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>
-<img alt="github" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"
-     style="max-width:100%;">
-</img>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"
+     style="max-width:100%;"></img>
+     
+<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" width="40" height="40"
+     style="max-width:100%;"></img>
+     
+<img src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-thumb.png?raw=true" alt="scikit-learn" width="40" height="40"
+     style="max-width:100%;"></img> 
+     
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"
+     style="max-width:100%;"></img>
+     
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"
+     style="max-width:100%;"></img>
+     
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"
+     style="max-width:100%;"></img>
+     
+<img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="github" width="40" height="40"
+     style="max-width:100%;"></img>
 
 ![Emidio's github stats](https://github-readme-stats.vercel.app/api?username=Emidio-Valeretto&show_icons=true&theme=radical)
 
