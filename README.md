@@ -32,7 +32,8 @@ style="max-width:100%;"></img>
 <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn-logo" width="100" height="100"
 style="max-width:100%;"></img> 
 
-
+<img src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" alt="jupyter-notebook-logo" width="80" height="80"
+style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"
 style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="80" height="80"
