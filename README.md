@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Emidio Valeretto
 
-- I'm originately from  :brazil:   but currently living in   :ireland:
+- I'm originally from  :brazil:   but currently living in   :ireland:
 - I'm passionate about  :camera_flash:  and   :movie_camera:
 - I'm currently graduating in Software Analysis and Development  :computer:
 - I have been learning more about Python :snake:   for Data Science and Machine Learning.
