@@ -17,7 +17,7 @@
 </a>
 
 ## My Skills
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="100" height="100"
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="80" height="80"
  style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" width="100" height="100"
 style="max-width:100%;"></img>
