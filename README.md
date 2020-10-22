@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Emidio Valeretto
+## I'm Emidio Valeretto
 
 - I'm originately from  :brazil:   but currently living in   :ireland:
 - I'm passionate about  :camera_flash:  and   :movie_camera:
@@ -45,7 +45,9 @@ style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="github" width="80" height="80"
 style="max-width:100%;"></img>
 
-![Emidio's github stats](https://github-readme-stats.vercel.app/api?username=Emidio-Valeretto&show_icons=true&theme=radical)
+![Emidio's github stats](https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact)](https://github.com/emidiovalereto/github-readme-stats)
 
 <!--
 **Emidio-Valeretto/Emidio-Valeretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
