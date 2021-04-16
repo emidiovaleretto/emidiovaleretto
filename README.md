@@ -11,11 +11,16 @@
 # Who am I:question:
 
 - I'm originally from ​B​ra​z​i​l​ :brazil: , currently living in Dublin, Ireland :ireland:
-- :man_student:  I have a degree in journalism and I'm a technology enthusiast.
+- :man_student: I am graduated in journalism, where I worked as camera operator  :movie_camera:  for some years of my life but I have always been an enthusiast in the area of technology.
 - My hobbies are photography :camera:  and cinema :clapper:
 - :desktop_computer: ​ I am currently graduating in Software Analysis and Development. 
 - :seedling:  I'm currently learning Python :snake:, C++ and the three pillars of the front end: HTML5, CSS3 and JavaScript.
-- and I am passionate about challenges and I'm looking forward to discovering new things. 
+- :heart_eyes:  I'm passionate about challenges and I'm looking forward to discovering new things. 
+- :dart:  My main goal is to become a full-stack developer, where I can contribute to solutions for people.
+
+
+
+# Am I challenge myself?
 
 
 
