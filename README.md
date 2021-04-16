@@ -1,8 +1,12 @@
 # Hello World! :earth_americas:
 
+
+
 ## My name's Emidio Valeretto and it is a pleasure to have you on my GitHub profile. 
 
 ### Make yourself at home! :sunglasses:
+
+
 
 # Who am I:question:
 
@@ -12,6 +16,8 @@
 - :desktop_computer: ​I am currently graduating in Software Analysis and Development. 
 - :seedling: I'm currently learning Python :snake:, C++ and the three pillars of the front end: HTML5, CSS3 and JavaScript.
 - and I am passionate about challenges and I'm looking forward to discovering new things. 
+
+
 
 # Languages & Tools :hammer_and_wrench:
 
@@ -31,7 +37,11 @@
   <img src="https://img.icons8.com/nolan/96/github.png"/>
 </div>
 
+
+
 # Analytics :gear:
+
+
 
 
 
@@ -39,95 +49,13 @@
 
 ![Emidio's github stats](https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&theme=radical)
 
+
+
 # Do you want to get in touch? Let's connect. :handshake:
 
+
+
 <div>
-  <a href="https://www.linkedin.com/in/emidiovalereto/" target="_blank"><img src="../emidiovaleretto/img/linkedin.png"  width="200"/></a>
+  <a href="https://www.linkedin.com/in/emidiovalereto/" target="_blank"><img src="./img/linkedin.png"  width="200"/></a>
 </div>
-
-
-
-# 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-! [Linkedin] (https://www.flaticon.com/free-icon/facebook_124010)
-
-
-
-
-
-
-
-
-
-
-
-
 
