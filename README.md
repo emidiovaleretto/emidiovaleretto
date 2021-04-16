@@ -2,7 +2,7 @@
 
 
 
-## My name's Emidio Valeretto and it is a pleasure to have you on my GitHub profile. 
+## My name's Emidio Valeretto and I am glad to have you here on my GitHub profile. 
 
 ### Make yourself at home! :sunglasses:
 
@@ -11,15 +11,17 @@
 # Who am I:question:
 
 - I'm originally from ​B​ra​z​i​l​ :brazil: , currently living in Dublin, Ireland :ireland:
-- :man_student: I have a degree in journalism and a technology enthusiast.
-- My hobbies are photography :camera: and cinema :clapper:
-- :desktop_computer: ​I am currently graduating in Software Analysis and Development. 
-- :seedling: I'm currently learning Python :snake:, C++ and the three pillars of the front end: HTML5, CSS3 and JavaScript.
+- :man_student:  I have a degree in journalism and I'm a technology enthusiast.
+- My hobbies are photography :camera:  and cinema :clapper:
+- :desktop_computer: ​ I am currently graduating in Software Analysis and Development. 
+- :seedling:  I'm currently learning Python :snake:, C++ and the three pillars of the front end: HTML5, CSS3 and JavaScript.
 - and I am passionate about challenges and I'm looking forward to discovering new things. 
 
 
 
 <iframe src="https://giphy.com/embed/LPrAK9rEedDwjtL1J0" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
 
 # Languages & Tools :hammer_and_wrench:
 
