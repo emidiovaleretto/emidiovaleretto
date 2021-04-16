@@ -19,7 +19,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/LPrAK9rEedDwjtL1J0" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/LPrAK9rEedDwjtL1J0" width="480" height="349"></iframe>
 
 # Languages & Tools :hammer_and_wrench:
 
