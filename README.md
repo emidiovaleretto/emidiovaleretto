@@ -19,7 +19,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/LPrAK9rEedDwjtL1J0" width="360" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-LPrAK9rEedDwjtL1J0">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LPrAK9rEedDwjtL1J0" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # Languages & Tools :hammer_and_wrench:
 
