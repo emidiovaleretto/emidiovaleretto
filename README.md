@@ -68,6 +68,10 @@
 
 ## Connect with me:
 <p align="left">
-  [![Linkedin Badge](https://img.shields.io/badge/-Emidio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/emidiovalereto/)
-  [![Gmail Badge](https://img.shields.io/badge/-emidio.valereto@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emidio.valereto@gmail.com)](mailto:emidio.valereto@gmail.com)
+  <a href="https://www.linkedin.com/in/emidiovalereto/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Emidio-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Emidio's LinkedIn"/>
+  </a>
+  <a href="mailto:emidio.valereto@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-emidio.valereto@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Emidio's Gmail"/>
+  </a>
 </p>
