@@ -27,7 +27,7 @@ class SoftwareEngineer:
         self._code = ["JavaScript", "Python", "Java", "Kotlin"]
         self._ask_me_about = ["dad", "web dev", "tech", "app dev", "bassist"]
         self._technologies = {
-            "frameworks: {
+            "frameworks": {
                     "back_end": ["Django", "Django Rest Framework"],
                     "front_end": ["Tailwindcss"]
             },
