@@ -1,12 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Emidio</h1>
 <h3 align="center">A passionate technophile always seeking new knowledge in this wonderful field.</h3>
 
+<div align="center">
 [![Linkedin: emidio](https://img.shields.io/badge/-emidio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/emidiovalereto/)
 ![GitHub followers](https://img.shields.io/github/followers/emidiovaleretto?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emidiovaleretto.dev/)](https://emidiovaleretto.dev/)
 ![](https://visitor-badge.glitch.me/badge?page_id=emidiovaleretto.emidiovaleretto)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emidiovaleretto.emidiovaleretto)
 ![Waka Readme](https://github.com/emidiovaleretto/emidiovaleretto/workflows/Waka%20Readme/badge.svg)
+</div>
 
 ## 🙋‍♂️ About Me
 
