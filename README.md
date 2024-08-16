@@ -1,6 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Emidio</h1>
 <h3 align="center">A passionate technophile always seeking new knowledge in this wonderful field.</h3>
 
+[![Linkedin: emidio](https://img.shields.io/badge/-emidio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/emidiovalereto/)
+![GitHub followers](https://img.shields.io/github/followers/emidiovaleretto?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emidiovaleretto.dev/)](https://emidiovaleretto.dev/)
+![](https://visitor-badge.glitch.me/badge?page_id=emidiovaleretto.emidiovaleretto)
+![Waka Readme](https://github.com/emidiovaleretto/emidiovaleretto/workflows/Waka%20Readme/badge.svg)
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **freelance projects and open-source contributions**
@@ -11,27 +17,52 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center">
-  <br>
-    <a target="_blank" href="https://www.python.org/"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
-    <a target="_blank" href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://img.icons8.com/nolan/50/flask.png"/> </a>
-    <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48"/></a> 
-    <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="44" height="44"/></a> 
-    <a href="https://dev.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a align="center"href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
-    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>   
-</p>
+''' python
+import random
+from pprint import pprint
 
-<br/>
+class SoftwareEngineer:
+    def __init__(self):
+        self._pronouns = ["He", "Him"]
+        self._code = ["JavaScript", "Python", "Java", "Kotlin"]
+        self._ask_me_about = ["dad", "web dev", "tech", "app dev", "bassist"]
+        self._technologies = {
+            "frameworks: {
+                    "back_end": ["Django", "Django Rest Framework"],
+                    "front_end": ["Tailwindcss"]
+            },
+            "back_end": {"js": ["Node"]},
+            "mobile_app": {"native": ["Android Development"]},
+            "dev_ops": ["AWS", "Docker🐳", "Azure", "Nginx"],
+            "databases": ["PostgreSQL", "MySql", "SQLite"],
+        }
+        self._architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+        self._current_focus = "No Focus point at this time"
+        self._fun_fact = self.generate_random_joke()
+
+    @property
+    def properties(self):
+        return {
+            "pronouns": self._pronouns,
+            "code": self._code,
+            "ask_me_about": self._ask_me_about,
+            "technologies": self._technologies,
+            "architecture": self._architecture,
+            "current_focus": self._current_focus,
+            "fun_fact": self._fun_fact
+        }
+
+    def generate_random_joke(self):
+        jokes = [
+            "Why do programmers prefer dark mode? Because light attracts bugs.",
+            "Why do developers prefer to code in their underwear? Because it's a byte-sized problem.",
+            "What do you call a programmer who doesn't know how to code? A manager."
+        ]
+        return random.choice(jokes)
+
+me = SoftwareEngineer()
+pprint(me.properties)
+'''
 
 ## 📊 My GitHub Stats
 
