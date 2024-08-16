@@ -17,7 +17,7 @@
 
 ## 🚀 Languages and Tools:
 
-''' python
+``` python
 import random
 from pprint import pprint
 
@@ -62,7 +62,7 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 pprint(me.properties)
-'''
+```
 
 ## 📊 My GitHub Stats
 
