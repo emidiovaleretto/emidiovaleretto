@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact **I like to play the bass guitar to soothe my soul.**
 
-## <img src="https://media.giphy.com/media/huAqJiUKwDATm/giphy.gif" width="50"> A little more about me...
+## 🚀 A little more about me...
 
 ``` python
 import random
