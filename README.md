@@ -5,17 +5,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/emidiovaleretto?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emidiovaleretto.dev/)](https://emidiovaleretto.dev/)
 ![](https://visitor-badge.glitch.me/badge?page_id=emidiovaleretto.emidiovaleretto)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emidiovaleretto.emidiovaleretto)
 ![Waka Readme](https://github.com/emidiovaleretto/emidiovaleretto/workflows/Waka%20Readme/badge.svg)
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **freelance projects and open-source contributions**
-- 🌱 I am currently learning **Full Stack Software Development** at [Code Institute](https://codeinstitute.net/).
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me **emidio.valereto@gmail.com**
-- ⚡ Fun fact **I like to play the saxophone to soothe my soul.**
+- ⚡ Fun fact **I like to play the bass guitar to soothe my soul.**
 
-## 🚀 Languages and Tools:
+## <img src="https://media.giphy.com/media/huAqJiUKwDATm/giphy.gif" width="50"> A little more about me...
 
 ``` python
 import random
@@ -64,66 +63,7 @@ me = SoftwareEngineer()
 pprint(me.properties)
 ```
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/emidiovaleretto/emidiovaleretto.git"><img alt="Emidio's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/emidiovaleretto/emidiovaleretto.git"><img alt="Emidio's Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/emidiovaleretto/emidiovaleretto.git">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Emidio's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emidiovaleretto&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/emidiovaleretto/emidiovaleretto.git"><img alt="Emidio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emidiovaleretto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-<p align="center">
- <img alt="Snake animation" src="https://github.com/emidiovaleretto/emidiovaleretto/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of the blog post](Link to the blog post)
-- [Title of the blog post](Link to the blog post)
-- [Title of the blog post](Link to the blog post)
-<!-- BLOG-POST-LIST:END -->
-
-## 🐦 Latest Tweets
-<!-- TWITTER:START -->
-<a class="twitter-timeline" href="https://twitter.com/yourusername?ref_src=twsrc%5Etfw">Tweets by yourusername</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- TWITTER:END -->
-
-## 😂 Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 💼 Project Showcase
-- [Project 1](Link to the project)
-- [Project 2](Link to the project)
-- [Project 3](Link to the project)
-
-## 🏆 Achievements and Certifications
-- [Achievement 1](Link to the certificate)
-- [Achievement 2](Link to the certificate)
-- [Achievement 3](Link to the certificate)
-
-## 🌟 Testimonials
-> "Emidio is a fantastic developer who always delivers quality work." - Client A
-
-> "A pleasure to work with, always goes above and beyond." - Client B
-
-## 📬 Contact Form
-[Fill out this form to get in touch](https://forms.gle/your-form-link)
-
-## 👀 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emidiovaleretto.emidiovaleretto)
-
-## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emidiovaleretto&repo=repo1&theme=react)](https://github.com/emidiovaleretto/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emidiovaleretto&repo=repo2&theme=react)](https://github.com/emidiovaleretto/repo2)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## 📝 Contribution Guidelines
 If you want to contribute, please follow these guidelines:
