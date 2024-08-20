@@ -75,7 +75,7 @@ pprint(me.properties)
 
 <!--START_SECTION:waka-->
 
-```rust
+```python
 From: 09 November 2021 - To: 19 August 2024
 
 Total Time: 294 hrs 31 mins
