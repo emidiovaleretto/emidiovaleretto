@@ -28,6 +28,7 @@
 from random import choice
 from pprint import pprint
 
+
 class SoftwareEngineer:
     def __init__(self):
         self._pronouns = ["He", "Him"]
@@ -71,6 +72,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 pprint(me.properties)
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📝 Contribution Guidelines
 If you want to contribute, please follow these guidelines:
