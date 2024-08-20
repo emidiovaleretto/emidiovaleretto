@@ -7,6 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/emidiovaleretto?label=Follow&style=social)
 [![My Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emidiovaleretto.dev/)](https://emidiovaleretto.dev/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emidiovaleretto.emidiovaleretto)
+![Waka Readme](https://github.com/emidiovaleretto/emidiovaleretto/workflows/Waka%20Readme/badge.svg)
 
 </div>
 
