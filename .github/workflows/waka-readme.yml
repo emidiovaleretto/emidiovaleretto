@@ -32,15 +32,6 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
-          SHOW_LINES_OF_CODE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
           
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
@@ -50,4 +41,3 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Emidio Valereto
           AUTHOR_EMAIL: emidio.valereto@gmail.com
-          # you can populate email-id with secrets instead
