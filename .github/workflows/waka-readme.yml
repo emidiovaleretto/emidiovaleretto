@@ -12,15 +12,19 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master # Required action, keep as is
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://api.wakatime.com/api/v1 # optional
-          REPOSITORY: emidiovaleretto/emidiovaleretto # optional
-          ### content
+          # GitHub Token for committing updates, only necessary if not running on a profile README
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          
+          # WakaTime API Key for accessing user data
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+          
+          ### Optional: Modify as necessary
+          API_BASE_URL: https://api.wakatime.com/api/v1 
+          REPOSITORY: emidiovaleretto/emidiovaleretto 
+          
+          ### Content customization
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
@@ -33,8 +37,8 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
           
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          ### Commit settings
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
