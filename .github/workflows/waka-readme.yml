@@ -21,7 +21,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
           
           ### Optional: Modify as necessary
-          API_BASE_URL: https://api.wakatime.com/api/v1 
+          API_BASE_URL: https://wakapi.dev/api/heartbeats 
           REPOSITORY: emidiovaleretto/emidiovaleretto 
           
           ### Content customization
