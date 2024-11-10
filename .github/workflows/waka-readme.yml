@@ -12,19 +12,15 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # Required action, keep as is
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          # GitHub Token for committing updates, only necessary if not running on a profile README
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-          
-          # WakaTime API Key for accessing user data
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          
-          ### Optional: Modify as necessary
-          API_BASE_URL: https://wakapi.dev/api/heartbeats 
-          REPOSITORY: emidiovaleretto/emidiovaleretto 
-          
-          ### Content customization
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          API_BASE_URL: https://api.wakatime.com/api/v1 # optional
+          REPOSITORY: emidiovaleretto/emidiovaleretto # optional
+          ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
@@ -36,12 +32,22 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
           
-          ### Commit settings
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Emidio Valereto
           AUTHOR_EMAIL: emidio.valereto@gmail.com
+          # you can populate email-id with secrets instead
