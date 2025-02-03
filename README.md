@@ -77,14 +77,14 @@ pprint(me.properties)
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 November 2021 - To: 31 January 2025
+From: 09 November 2021 - To: 01 February 2025
 
-Total Time: 466 hrs 23 mins
+Total Time: 466 hrs 49 mins
 
-Python        132 hrs 23 mins >>>>>>>------------------   28.22 %
-HTML          113 hrs 26 mins >>>>>>-------------------   24.18 %
-JavaScript    87 hrs 33 mins  >>>>>--------------------   18.66 %
-CSS           68 hrs 2 mins   >>>>---------------------   14.50 %
+Python        132 hrs 23 mins >>>>>>>------------------   28.19 %
+HTML          113 hrs 26 mins >>>>>>-------------------   24.16 %
+JavaScript    87 hrs 57 mins  >>>>>--------------------   18.73 %
+CSS           68 hrs 3 mins   >>>>---------------------   14.49 %
 Markdown      11 hrs 33 mins  >------------------------   02.46 %
 TypeScript    9 hrs 19 mins   -------------------------   01.99 %
 SCSS          8 hrs 6 mins    -------------------------   01.73 %
