@@ -77,7 +77,7 @@ pprint(me.properties)
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 November 2021 - To: 04 December 2025
+From: 09 November 2021 - To: 05 December 2025
 
 Total Time: 503 hrs 34 mins
 
