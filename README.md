@@ -117,11 +117,10 @@ me = SoftwareEngineer()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <a href="https://github.com/emidiovaleretto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emidiovaleretto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,tex,css,php"/>
+  </a>
 </p>
 
 <p align="center">
@@ -143,7 +142,7 @@ me = SoftwareEngineer()
 
 ## 🎸 Beyond the Code
 
-- ✈️ **Virtual pilot** — Microsoft Flight Simulator 2024, flying the Fenix A320 and FSLabs A321neo
+- ✈️ **Virtual pilot** — Microsoft Flight Simulator 2024, flying the Airbus A320 family
 - 🎸 **Bass player** — the low end is where the groove lives
 - 🇮🇪 **Living in Dublin** — loving the craic (and the rain)
 - 🌍 **Open source enthusiast** — if it helped you, drop a ⭐
