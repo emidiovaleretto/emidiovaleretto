@@ -1,102 +1,156 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Emidio</h1>
-<h3 align="center">A passionate technophile always seeking new knowledge in this wonderful field.</h3>
-
-<div align="center">
-
-[![Linkedin: emidio](https://img.shields.io/badge/-emidio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/emidiovalereto/)
-![GitHub followers](https://img.shields.io/github/followers/emidiovaleretto?label=Follow&style=social)
-[![My Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emidiovaleretto.dev/)](https://emidiovaleretto.dev/)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emidiovaleretto.emidiovaleretto)
-![Waka Readme](https://github.com/emidiovaleretto/emidiovaleretto/workflows/Waka%20Readme/badge.svg)
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=092E20&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Emidio+%F0%9F%91%8B;Backend+Engineer+%7C+Django+Specialist;Based+in+Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA;Virtual+Pilot+%E2%9C%88%EF%B8%8F+%7C+Bass+Player+%F0%9F%8E%B8" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=emidiovaleretto&theme=darcula&hide_border=true&background=FFFFFF00">
+  <a href="https://www.linkedin.com/in/emidiovalereto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://emidiovaleretto.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-092E20?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="mailto:emidio@valeretto.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=emidiovaleretto&style=for-the-badge&color=092E20" />
 </p>
 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I’m currently working on **freelance projects and open-source contributions**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact **I like to play the bass guitar to soothe my soul.**
+## 🧑‍💻 About Me
 
-## 🚀 A little more about me...
-
-``` python
-from random import choice
-from pprint import pprint
+```python
+from dataclasses import dataclass, field
+from typing import List
 
 
+@dataclass
 class SoftwareEngineer:
-    def __init__(self):
-        self._pronouns = ["He", "Him"]
-        self._code = ["JavaScript", "Python", "Java", "Kotlin"]
-        self._ask_me_about = ["dadhood", "web dev", "tech", "app dev", "bass"]
-        self._technologies = {
-            "frameworks": {
-                    "back_end": ["Django", "Django Rest Framework"],
-                    "front_end": ["Tailwindcss"]
-            },
-            "back_end": {"js": ["Node"]},
-            "mobile_app": {"native": ["Android Development"]},
-            "dev_ops": ["AWS", "Docker🐳", "Azure", "Nginx"],
-            "databases": ["PostgreSQL", "MySql", "SQLite"],
-        }
-        self._architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
-        self._current_focus = "No Focus point at this time"
-        self._fun_fact = self.generate_random_joke()
+    name: str = "Emidio Valeretto"
+    location: str = "Dublin, Ireland 🇮🇪"
+    role: str = "Backend Engineer"
+    primary_stack: str = "Django REST Framework 🐍"
 
-    @property
-    def properties(self):
-        return {
-            "pronouns": self._pronouns,
-            "code": self._code,
-            "ask_me_about": self._ask_me_about,
-            "technologies": self._technologies,
-            "architecture": self._architecture,
-            "current_focus": self._current_focus,
-            "fun_fact": self._fun_fact
-        }
+    languages: List[str] = field(default_factory=lambda: [
+        "Python", "JavaScript", "TypeScript"
+    ])
 
-    def generate_random_joke(self):
-        jokes = [
-            "Why do programmers prefer dark mode? Because light attracts bugs.",
-            "Why do developers prefer to code in their underwear? Because it's a byte-sized problem.",
-            "What do you call a programmer who doesn't know how to code? A manager."
-        ]
-        return choice(jokes)
+    technologies: dict = field(default_factory=lambda: {
+        "backend":   ["Django", "Django REST Framework", "PostgreSQL", "Redis"],
+        "frontend":  ["React Native", "Expo", "Tailwind CSS"],
+        "devops":    ["Docker", "GitHub Actions", "AWS", "Nginx"],
+        "testing":   ["pytest", "factory-boy", "pytest-django"],
+    })
+
+    currently_building: str = "simlog — a Flight Simulator companion app ✈️"
+    hobbies: List[str] = field(default_factory=lambda: [
+        "Microsoft Flight Simulator 2024 🛫",
+        "Bass guitar 🎸",
+        "Open source contributions 🌍",
+    ])
+    fun_fact: str = "I once diverted a transatlantic flight to JFK due to a fuel emergency... in a simulator. 😅"
 
 
 me = SoftwareEngineer()
-pprint(me.properties)
 ```
+
+---
+
+## 🚀 Tech Stack
+
+### Core
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=ff1709" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coverage.py-CC2927?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## ✈️ Featured Project — simlog
+
+> A companion app for Microsoft Flight Simulator 2024 — personal flight logbook, checklist manager and SimBrief integration.
+
+<p>
+  <a href="https://github.com/emidiovaleretto/simlog-api">
+    <img src="https://img.shields.io/badge/simlog--api-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Django_+_React_Native-blue?style=for-the-badge" />
+</p>
+
+```
+✅ JWT Authentication        ✅ Flight Logbook CRUD
+✅ SimBrief Integration      ✅ Checklist Manager
+✅ 52 automated tests        ✅ CI/CD with GitHub Actions
+🔄 React Native App          🔄 Deploy
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emidiovaleretto&theme=vue-dark&hide_border=true&background=FFFFFF00" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emidiovaleretto&theme=darcula&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
-```python
-From: 09 November 2021 - To: 19 May 2026
-
-Total Time: 508 hrs 19 mins
-
-Python        144 hrs 44 mins       >>>>>>>------------------   28.32 %
-HTML          126 hrs 7 mins        >>>>>>-------------------   24.67 %
-JavaScript    90 hrs 5 mins         >>>>---------------------   17.63 %
-CSS           71 hrs 30 mins        >>>----------------------   13.99 %
-Markdown      15 hrs 51 mins        >------------------------   03.10 %
-TypeScript    13 hrs 19 mins        >------------------------   02.61 %
-SCSS          8 hrs 6 mins          -------------------------   01.59 %
-Text          5 hrs 31 mins         -------------------------   01.08 %
-```
-
 <!--END_SECTION:waka-->
 
-## 📝 Contribution Guidelines
-If you want to contribute, please follow these guidelines:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+---
+
+## 🎸 Beyond the Code
+
+- ✈️ **Virtual pilot** — Microsoft Flight Simulator 2024, flying the Airbus A320 family.
+- 🎸 **Bass player** — the low end is where the groove lives
+- 🇮🇪 **Living in Dublin** — loving the craic (and the rain)
+- 🌍 **Open source enthusiast** — if it helped you, drop a ⭐
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=100&section=footer" />
+</p>
