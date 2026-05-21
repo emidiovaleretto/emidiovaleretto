@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=092E20&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Emidio+%F0%9F%91%8B;Backend+Engineer+%7C+Django+Specialist;Based+in+Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA;Virtual+Pilot+%E2%9C%88%EF%B8%8F+%7C+Bass+Player+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=44D62C&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Emidio+%F0%9F%91%8B;Backend+Engineer+%7C+Django+Specialist;Based+in+Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA;Virtual+Pilot+%E2%9C%88%EF%B8%8F+%7C+Bass+Player+%F0%9F%8E%B8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,12 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://emidiovaleretto.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-092E20?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-44D62C?style=for-the-badge&logo=Google-Chrome&logoColor=black" />
   </a>
   <a href="mailto:emidio@valeretto.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=emidiovaleretto&style=for-the-badge&color=092E20" />
+  <img src="https://komarev.com/ghpvc/?username=emidiovaleretto&style=for-the-badge&color=44D62C&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ me = SoftwareEngineer()
 ### Testing
 <p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coverage.py-CC2927?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/factory--boy-092E20?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -101,8 +101,8 @@ me = SoftwareEngineer()
   <a href="https://github.com/emidiovaleretto/simlog-api">
     <img src="https://img.shields.io/badge/simlog--api-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Django_+_React_Native-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-44D62C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Django_+_React_Native-3776AB?style=for-the-badge" />
 </p>
 
 ```
@@ -117,16 +117,19 @@ me = SoftwareEngineer()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000" />
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emidiovaleretto&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emidiovaleretto&theme=vue-dark&hide_border=true&background=FFFFFF00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidiovaleretto&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emidiovaleretto&theme=darcula&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=emidiovaleretto&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emidiovaleretto&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -140,7 +143,7 @@ me = SoftwareEngineer()
 
 ## 🎸 Beyond the Code
 
-- ✈️ **Virtual pilot** — Microsoft Flight Simulator 2024, flying the Airbus A320 family.
+- ✈️ **Virtual pilot** — Microsoft Flight Simulator 2024, flying the Fenix A320 and FSLabs A321neo
 - 🎸 **Bass player** — the low end is where the groove lives
 - 🇮🇪 **Living in Dublin** — loving the craic (and the rain)
 - 🌍 **Open source enthusiast** — if it helped you, drop a ⭐
@@ -152,5 +155,5 @@ me = SoftwareEngineer()
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=44D62C&height=100&section=footer" />
 </p>
