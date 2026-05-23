@@ -136,6 +136,22 @@ me = SoftwareEngineer()
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```python
+From: 09 November 2021 - To: 21 May 2026
+
+Total Time: 508 hrs 58 mins
+
+Python        145 hrs 6 mins        >>>>>>>------------------   28.35 %
+HTML          126 hrs 7 mins        >>>>>>-------------------   24.64 %
+JavaScript    90 hrs 5 mins         >>>>---------------------   17.60 %
+CSS           71 hrs 30 mins        >>>----------------------   13.97 %
+Markdown      15 hrs 55 mins        >------------------------   03.11 %
+TypeScript    13 hrs 19 mins        >------------------------   02.60 %
+SCSS          8 hrs 6 mins          -------------------------   01.58 %
+Text          5 hrs 31 mins         -------------------------   01.08 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
