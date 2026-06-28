@@ -138,7 +138,7 @@ me = SoftwareEngineer()
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 November 2021 - To: 25 June 2026
+From: 09 November 2021 - To: 26 June 2026
 
 Total Time: 516 hrs
 
